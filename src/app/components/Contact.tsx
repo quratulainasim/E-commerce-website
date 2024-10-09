@@ -5,7 +5,7 @@ function Contact() {
   <div className="container px-5 py-20 mx-auto">
     <div className="flex flex-col text-center w-full mb-12">
       <h1 className="sm:text-4xl text-2xl font-bold mb-4 text-green-400">Contact Us</h1>
-      <p className="lg:w-2/3 mx-auto  text-black font-semibold">"Get in touch with us to learn more about our organic products and how they fit into a healthier lifestyle. Whether you have questions about our offerings or need personalized recommendations, we're here to help you on your wellness journey. Fill out the form below and we'll respond as soon as possible!"</p>
+      <p className="lg:w-2/3 mx-auto  text-black font-semibold">Get in touch with us to learn more about our organic products and how they fit into a healthier lifestyle.Whether you have questions about our offerings or need personalized recommendations we are here to help you on your wellness journey.Fill out the form below and we will respond as soon as possible.</p>
     </div>
     <div className="lg:w-1/2 md:w-2/3 mx-auto">
       <div className="flex flex-wrap -m-2">

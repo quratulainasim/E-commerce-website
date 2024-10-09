@@ -5,10 +5,10 @@ function Product() {
     <section className="bg-slate-100">
       <div className="container mx-auto py-15 px-5">
         <h1 className="text-green-500 sm:text-4xl text-2xl mb-2 text-center font-bold">
-          Our Products are:
+          Our Products are
         </h1>
         <div className="flex flex-wrap -m-2">
-          <div className="w-full lg:w-1/4 md:w-1/2 p-4 transition-transform duration-300 ease-in-out transform hover:scale-110  ">
+          <div className="w-full lg:w-1/4 md:w-1/2 p-4 transition-transform duration-300 ease-in-out transform hover:scale-110">
             <a className="block relative h-48 border-2 rounded overflow-hidden">
               <Image
                 className="object-cover object-center w-full h-full block"

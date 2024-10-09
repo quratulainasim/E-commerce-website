@@ -13,11 +13,11 @@ function Contact() {
               Contact Us
             </h1>
             <p className="lg:w-2/3 mx-auto  text-black font-semibold">
-              "Get in touch with us to learn more about our organic products and
+              Get in touch with us to learn more about our organic products and
               how they fit into a healthier lifestyle. Whether you have
               questions about our offerings or need personalized
-              recommendations, we're here to help you on your wellness journey.
-              Fill out the form below and we'll respond as soon as possible!"
+              recommendations we are here to help you on your wellness journey.
+              Fill out the form below and we will respond as soon as possible.
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto">

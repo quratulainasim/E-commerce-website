@@ -11,8 +11,8 @@ function Header() {
     <span className="ml-1 text-4xl text-green-500 font-extrabold font-serif">OrganicFit</span>
   </div>
   <div style={{position:"relative"}}>
-<input className='rounded-2xl py-3 px-3 outline-none  ml-3 text-xs w-[200px] pr-10 hidden md:block' placeholder='Search for item' />
-<FaSearch className='text-yellow-500 w-5 h-5 absolute right-5 top-2 hidden md:block' />
+<input className="rounded-2xl py-3 px-3 outline-none  ml-3 text-xs w-[200px] pr-10 hidden md:block" placeholder="Search for item" />
+<FaSearch className="text-yellow-500 w-5 h-5 absolute right-5 top-2 hidden md:block" />
  </div>
   <nav className="md:ml-auto flex flex-wrap items-center text-green-500 font-bold font-serif text-xl justify-center">
     <Link className="mr-5 hover:text-gray-300" href="/">Home</Link>
