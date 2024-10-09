@@ -29,7 +29,7 @@ function About() {
       </div>
       <div className="xl:w-1/4 md:w-1/2 p-4">
         <div className="p-6 rounded-lg transition-transform duration-200 ease-in-out transform hover:scale-110">
-          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="/image4.jpg" alt="image" width={400} height={300} />
+          <Image className="h-40 rounded w-full object-cover object-center mb-6" src="/heat.jpg" alt="image" width={400} height={300} />
           <h2 className="text-lg text-yellow-400 font-bold mb-4">Temperature Control </h2>
           <p className="text-base"> Effective heat control in organic greenhouses ensures optimal growing conditions for plants.Techniques like natural ventilation shade cloths and thermal mass materials help regulate temperatures promoting healthy growth.These methods reduce the need for chemical interventions fostering a sustainable and eco-friendly farming environment.</p>
         </div>
